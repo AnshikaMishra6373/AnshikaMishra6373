@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anshikamishra6373-blip&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com user=AnshikaMishra6373&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
 </div>
 
