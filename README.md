@@ -90,7 +90,8 @@
 <div align="center">
 
 > 💬 *"Great software is built by great teams. Let's build something amazing together."*
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshikamishra6373-blip)
+> 
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshikamishra6373)
 
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikamishra6373@gmail.com)
 
