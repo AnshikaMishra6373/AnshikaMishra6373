@@ -69,15 +69,6 @@
 
 </div>
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Anshika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshika-Mishra1505&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
 ---
 
 ## 💡 Dev Quote of the Day
