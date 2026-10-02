@@ -60,14 +60,18 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=AnshikaMishra6373&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshikaMishra6373&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com user=AnshikaMishra6373&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com?user=AnshikaMishra6373&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
 </div>
+
 
 ---
 
